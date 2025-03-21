@@ -12,7 +12,7 @@ auth:
     openai: YOUR_OPENAI_VERIFICATION_TOKEN  # Found in ChatGPT plugin dev console
 api:
   type: openapi
-  url: https://your-domain.com/openapi.json  # Your hosted OpenAPI spec
+  url: https://github.com/JessiFoley/zara/blob/main/openapi.json  # Your hosted OpenAPI spec
   is_user_authenticated: true
 logo_url: https://your-domain.com/logo.png
 contact_email: your@email.com
