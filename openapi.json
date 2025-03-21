@@ -64,7 +64,7 @@
         "security": [
           {
             "oauth2": [
-              "https://www.googleapis.com/auth/calendar.readonly"
+              "https://www.googleapis.com/auth/calendar.events"
             ]
           }
         ]
