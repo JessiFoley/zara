@@ -1,4 +1,4 @@
-schema_version: 1.0
+entsschema_version: 1.0
 name_for_human: Daily Agenda
 name_for_model: getDailyAgenda
 description_for_human: Retrieve today's events from your Google Calendar.
